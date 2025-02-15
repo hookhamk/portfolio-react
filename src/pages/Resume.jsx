@@ -1,7 +1,7 @@
 export default function Resume() {
     return (
       <div className="container pt-4">
-        <h2>Kelly Hookham</h2>
+        <h2>HR and Software Experience</h2>
         <p>
           As an experienced HR professional and passionate software developer, I am
           excited to help you navigate your HR and software needs. 
